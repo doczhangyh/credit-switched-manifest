@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/doczhangyh" />
+  
+  <default remote="origin" revision="master" />
+
+  <project path="frontend" name="credit-switched-frontend" />
+  
+  <project path="backend" name="credit-switched-backend" />
+</manifest>
