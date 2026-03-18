@@ -6,5 +6,8 @@
 
   <project path="frontend" name="credit-switched-frontend" />
   
-  <project path="backend" name="credit-switched-backend" />
+  <project path="backend" name="credit-switched-backend">
+    <copyfile src="run.sh" dest="run.sh" />
+    <copyfile src="test_back.sh" dest="test_back.sh" />
+  </project>
 </manifest>
