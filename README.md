@@ -19,11 +19,8 @@
 # 后端：
 cd backend
 
-# 首次运行请安装依赖
-mvn install
-
 # 启动应用
-mvn spring-boot:run
+./mvnw spring-boot:run &
 
 # 前端：
 cd frontend
@@ -32,6 +29,6 @@ cd frontend
 npm install
 
 # 启动开发服务器
-npm run dev
+npm run serve
 
 
