@@ -14,21 +14,7 @@
 目录如下：
 <img width="812" height="198" alt="image" src="https://github.com/user-attachments/assets/8ea4e7a1-1207-4924-a34c-af978a9868ef" />
 
-接下来推荐打开两个终端命令行：
-
-# 后端：
-cd backend
-
-# 启动应用
-./mvnw spring-boot:run &
-
-# 前端：
-cd frontend
-
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run serve
+终端运行命令：
+./run.sh
 
 
