@@ -10,5 +10,4 @@
     <copyfile src="run.sh" dest="run.sh" />
     <copyfile src="test_back.sh" dest="test_back.sh" />
   </project>
-  <project path="agent-tutorial" name="agent-tutorial" />
 </manifest>
