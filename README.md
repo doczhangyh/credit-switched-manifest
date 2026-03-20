@@ -19,6 +19,7 @@
 
 终端运行命令：
 chmod +x run.sh
+
 ./run.sh
 
 
